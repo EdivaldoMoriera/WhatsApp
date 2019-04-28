@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="botao_validar">Validar</string>
+    <string name="texto_validacao">Valdação</string>
+    <string name="Text_validacao">Validação</string>
+    <string name="textoSMS">Você recebeu um SMS para validação,\\n digite o código de validação a baixo</string>
+    <string name="TextoValidcao" translatable="false">Você recebeu um código SMS de validaçao, digite o código para validação a baixo:</string>
+</resources>

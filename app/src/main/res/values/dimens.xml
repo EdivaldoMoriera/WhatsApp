@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_logo">200dp</dimen>
+    <dimen name="altura_logo">163dp</dimen>
+    <dimen name="numero">50dp</dimen>
+    <dimen name="largara_botao">346dp</dimen>
+    <dimen name="tamanho_texto">24dip</dimen>
+    <dimen name="texto_tamanho">30dip</dimen>
+    <dimen name="tamanhoTexto">30dip</dimen>
+</resources>
